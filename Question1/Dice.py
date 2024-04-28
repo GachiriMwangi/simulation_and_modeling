@@ -1,3 +1,4 @@
+#import functions
 import random
 
 # Function to roll a die
